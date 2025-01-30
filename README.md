@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sahil Rajurkar</h1>
-<h3 align="center">A Java Full Stack Developer from India</h3>
+<h3 align="center">A Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilr88&label=Profile%20views&color=0e75b6&style=flat" alt="sahilr88" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilr88" alt="sahilr88" /></a> </p>
 
-- 🌱 I’m currently learning **Spring,JavaScript,ReactJs**
+- 🌱 I’m currently learning **Spring Boot, JavaScript, ReactJs, Java**
 
 - 📫 How to reach me **sahilrajurkar88@gmail.com**
 
